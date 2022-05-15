@@ -1,0 +1,1 @@
+The tensorflow functional API was used to build a Siamese-Network(Multi-Input) model to train on the MNIST-Fashion dataset, and a Wine-Quality prediction (Multi-Output) model on the Wine dataset.
