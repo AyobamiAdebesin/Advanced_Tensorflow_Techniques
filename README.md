@@ -1,1 +1,1 @@
-A repositry containing some advanced techniques for building Deep Learning models with Tensorflow and Keras.
+A repository containing some advanced techniques for building Deep Learning models with Tensorflow and Keras.
